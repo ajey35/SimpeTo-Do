@@ -27,5 +27,9 @@ A sleek and simple **TODO application** built using **React** to help you organi
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/todo-app.git  
+   git clone https://github.com/ajey35/SimpeTo-Do.git
    cd todo-app  
+
+
+## 👨‍💻 Author
+Developed with ❤️ by [Ajey].
